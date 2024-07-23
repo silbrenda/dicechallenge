@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Geostar&family=Gugi&display=swap');
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #0e0f0f;
+  background-image: url("https://media1.tenor.com/m/JZTcVfukUoYAAAAC/sunset-palm-aesthetic.gif");
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+}
+
+h1 {
+  font-family: "Gugi", sans-serif;
+  font-weight: lighter;
+  font-size: 7.5rem;
+  background: -webkit-linear-gradient(top, #762da1, #f553da, #adf882);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: right; 
+    margin-right: -11rem;
+    margin-top: -0.11rem;
+    -webkit-text-stroke-width: 0.5px; 
+    -webkit-text-stroke-color: #f8fcf5;
+}
+
+p {
+  font-family: "Gugi", sans-serif;
+  font-weight: lighter;
+  background: -webkit-linear-gradient(top, #762da1, #4ECCA3, #adf882);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 2rem;
+  -webkit-text-stroke-width: 0.3px; 
+  -webkit-text-stroke-color: #f8fcf5;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
